@@ -1,0 +1,39 @@
+Part 1
+
+1) 202 
+https://swapi.dev/api/people/4
+2) 2000000000
+https://swapi.dev/api/planets/2
+3) Corellian Engineering Corporation
+https://swapi.dev/api/starships/10/
+4)Droid
+https://swapi.dev/api/species/2
+5)A New Hope,
+The Empire Strikes Back
+Return of the Jedi,
+The Phantom Menace,
+Attack of the Clones,
+Revenge of the Sith
+https://swapi.dev/api/people/10/
+6)
+https://swapi.dev/api/starships/?search=Millennium Falcon
+
+Part 2
+
+1)text of a new post in the body.
+2)an array
+3)https://practiceapi.devmountain.com/api/?id=555
+4)200 & 409
+5)https://practiceapi.devmountain.com/api/posts
+{"text": "Cole Henderson"}
+6)https://practiceapi.devmountain.com/api/posts?id=498
+{"text": "blue"}
+7)https://practiceapi.devmountain.com/api/posts/filter?text=blue
+
+8)application/json; charset=utf-8
+
+9)Request was missing req.query.id or req.body.text
+
+10)an error because it isn't expecting a query
+
+

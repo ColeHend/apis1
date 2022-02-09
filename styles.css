@@ -1,0 +1,16 @@
+*{
+    font-family: sans-serif;
+}
+.wrapper{
+    display: flex;
+    width: 100vw;
+    align-items: center;
+}
+button{
+    align-self: flex-start;
+    height: 35px;
+}
+#names{
+    width: 100vw;
+    text-align: center;
+}
